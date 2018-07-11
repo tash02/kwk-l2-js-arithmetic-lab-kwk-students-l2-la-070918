@@ -16,6 +16,5 @@ var randomNumber = Math.floor(Math.random()*20) + 1
 const flooredRandomInteger = Math.floor(randomNumber);
 var randomInteger = flooredRandomInteger
 
-(Number.isInteger(randomUserID))
 
 
